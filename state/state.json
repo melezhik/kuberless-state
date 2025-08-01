@@ -3,5 +3,5 @@
     "foo": "bar"
   },
   "version": "0.0.1",
-  "distro-url": ""
+  "distro-url": "127.0.0.1:8181/main"
 }
